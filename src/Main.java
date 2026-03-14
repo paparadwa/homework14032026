@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //task 1
-        byte clientOS = 0;
+        byte clientOS = 1;
         if (clientOS == 0) {
             System.out.println("Установите версию приложения для iOS по ссылке");
         } else {
